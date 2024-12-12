@@ -1,0 +1,104 @@
+{
+  "allvideos": [
+    {
+      "caption": "Baby John",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Baby_John_%28upcoming_film%29_poster.jpg/220px-Baby_John_%28upcoming_film%29_poster.jpg",
+      "youtubeUrl": "https://www.youtube.com/embed/qyRn3rPRw8w",
+      "id": 2
+    },
+    {
+      "caption": "Kabira",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a39100e092d63ffa102405",
+      "youtubeUrl": "https://www.youtube.com/embed/jHNNMj5bNQw",
+      "id": 1
+    },
+    {
+      "caption": "Jailer",
+      "imageUrl": "https://static.zoomnews.com/photo/102601953.cms",
+      "youtubeUrl": "https://www.youtube.com/embed/xenOE1Tma0A",
+      "id": 3
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailer",
+      "allVideos": [
+        {
+          "caption": "Rifle Club",
+          "imageUrl": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-250,h-390/et00422899-mbzbfxfbtk-portrait.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/_HacZSM24mA",
+          "id": 4
+        },
+        {
+          "caption": "Identity",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/25/Identity_Malayalam_Movie_Poster.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/zGCgPP6JcC8",
+          "id": 3
+        },
+        {
+          "caption": "Amaran",
+          "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTAzMGQ2MGItMjk5OC00YWIwLThmMjUtYmNjMTIxNzVlZWQ4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+          "youtubeUrl": "https://www.youtube.com/embed/H7FT-d4YA74",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categoryName": "songs",
+      "allVideos": [
+        {
+          "caption": "Kun Faya Kun",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr_EoFSHGJdqnFmD_BZMKpj9dwujGh2yL8Ag&s",
+          "youtubeUrl": "https://www.youtube.com/embed/T94PHkuydcw",
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "caption": "Vettaiyan",
+      "youtubeUrl": "https://www.youtube.com/embed/zPqMbwmGC1U",
+      "formatedData": "12/5/2024, 2:13:32 PM",
+      "id": 3
+    },
+    {
+      "caption": "Amaran",
+      "youtubeUrl": "https://www.youtube.com/embed/H7FT-d4YA74",
+      "formatedData": "12/5/2024, 2:13:34 PM",
+      "id": 4
+    },
+    {
+      "caption": "G.O.A.T",
+      "youtubeUrl": "https://www.youtube.com/embed/Y5BeWdODPqo",
+      "formatedData": "12/10/2024, 2:34:57 PM",
+      "id": 5
+    },
+    {
+      "caption": "Kabira",
+      "youtubeUrl": "https://www.youtube.com/embed/jHNNMj5bNQw",
+      "formatedData": "12/12/2024, 2:29:04 PM",
+      "id": 6
+    },
+    {
+      "caption": "Kabira",
+      "youtubeUrl": "https://www.youtube.com/embed/jHNNMj5bNQw",
+      "formatedData": "12/12/2024, 2:29:14 PM",
+      "id": 7
+    },
+    {
+      "caption": "Rifle Club",
+      "youtubeUrl": "https://www.youtube.com/embed/_HacZSM24mA",
+      "formatedData": "12/12/2024, 2:29:29 PM",
+      "id": 8
+    },
+    {
+      "caption": "Kabira",
+      "youtubeUrl": "https://www.youtube.com/embed/jHNNMj5bNQw",
+      "formatedData": "12/12/2024, 2:30:11 PM",
+      "id": 9
+    }
+  ]
+}
